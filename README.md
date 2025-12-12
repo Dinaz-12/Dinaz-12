@@ -9,7 +9,7 @@
 
 <img src="https://github.com/user-attachments/assets/396fd299-46b3-461a-b526-6e83cdfb5853.gif" width="700" />
 
-<img src="https://github.com/user-attachments/assets/aa241d36-b4b4-4e34-b1a3-1c952315df38/giphy.gif" width="700" />
+<img src="https://github.com/user-attachments/assets/aa241d36-b4b4-4e34-b1a3-1c952315df38.gif" width="700" />
 <h3 align="center">✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
 
 ---
