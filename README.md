@@ -29,6 +29,11 @@ I love turning ideas into visually beautiful & functional digital solutions.
   <img src="https://img.icons8.com/color/96/javascript.png" width="45"/>
   <img src="https://img.icons8.com/color/96/mysql-logo.png" width="45"/>
 
+  <img src="https://img.icons8.com/color/96/python.png" width="45"/>
+  <img src="https://img.icons8.com/color/96/jupyter.png" width="45"/>
+  <img src="https://img.icons8.com/color/96/r-logo.png" width="45"/>
+  <img src="https://img.icons8.com/color/96/eclipse.png" width="45"/>
+
   <img src="https://img.icons8.com/color/96/android-studio--v3.png" width="45"/>
   <img src="https://img.icons8.com/glyph-neue/96/github.png" width="45"/>
   <img src="https://img.icons8.com/color/96/git.png" width="45"/>
@@ -64,9 +69,6 @@ Academic project submission portal
 
 ---
 
-
----
-
 # 📫 Connect With Me  
 
 <p align="left">
@@ -84,4 +86,4 @@ Academic project submission portal
 ---
 
 ### 🌈 *Thank you for visiting my profile!*  
-
+```
