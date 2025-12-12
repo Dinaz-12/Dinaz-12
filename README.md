@@ -1,19 +1,9 @@
-<h1 align="center">Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
+<h1>Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
+<h3>Welcome to GitHub Profile !</h3>
 
 <p align="center">
   <img src="overview.gif" alt="Overview banner" width="1100px" />
 </p>
-
-
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZkdG1lZTNmNnd5NWZneDNjN2xqc2kyNjJqMTFna3pvNmluczZiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveJVS9eP/giphy.gif" width="700"/>
-
-</p>
-
-<img src="https://github.com/user-attachments/assets/396fd299-46b3-461a-b526-6e83cdfb5853.gif" width="700" />
-
-<img src="https://github.com/user-attachments/assets/aa241d36-b4b4-4e34-b1a3-1c952315df38.gif" width="700" />
 <h3 align="center">✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
 
 ---
