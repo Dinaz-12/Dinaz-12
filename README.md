@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
 
+<img src="https://github.com/user-attachments/assets/396fd299-46b3-461a-b526-6e83cdfb5853" />
 
 <!-- Header GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZkdG1lZTNmNnd5NWZneDNjN2xqc2kyNjJqMTFna3pvNmluczZiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveJVS9eP/giphy.gif" width="700"/>
-  <img src=
+  
 </p>
 
-<h1 align="center">Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
-<img src="https://github.com/user-attachments/assets/63501d2a-b83d-48b2-ae7e-fc8d42d06a40" width="700" />
 
 <h3 align="center">✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
 
