@@ -4,7 +4,7 @@
 <p align="center">
   <img src="overview.gif" alt="Overview banner" width="1100px" />
 </p>
-<h3 align="center">✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
+<h3>✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
 
 ---
 
@@ -106,6 +106,4 @@ Academic project submission portal
 ---
 
 ### 🌈 *Thank you for visiting my profile!*  
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0BKpqAaPDCK6l6Fe/giphy.gif" width="300"/>
-</p>
+
