@@ -22,17 +22,13 @@ I love turning ideas into visually beautiful & functional digital solutions.
 
 # 🎨 Tech Stack & Tools  
 
-### 💻 **Languages**
 <p align="left">
   <img src="https://img.icons8.com/color/96/kotlin.png" width="45"/>
   <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="45"/>
   <img src="https://img.icons8.com/officel/80/php-logo.png" width="45"/>
   <img src="https://img.icons8.com/color/96/javascript.png" width="45"/>
   <img src="https://img.icons8.com/color/96/mysql-logo.png" width="45"/>
-</p>
 
-### 🛠️ **Tools, IDEs & Platforms**
-<p align="left">
   <img src="https://img.icons8.com/color/96/android-studio--v3.png" width="45"/>
   <img src="https://img.icons8.com/glyph-neue/96/github.png" width="45"/>
   <img src="https://img.icons8.com/color/96/git.png" width="45"/>
@@ -56,7 +52,7 @@ Daily wellness habit monitoring
 Support helpdesk for SLIIT  
 **Tech:** Java | MVC | OOP  
 
-### 🌿 **Tea Plantation Management System**  
+### 🌿 **Tea Plantation Managemenystem**  
 Manage plantation operations  
 **Tech:** PHP | JS | MySQL  
 
@@ -68,24 +64,6 @@ Academic project submission portal
 
 ---
 
-# 🌟 Animated GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinaz-12&show_icons=true&theme=material-palenight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinaz-12&layout=compact&theme=material-palenight" height="180em"/>
-</p>
-
-### 🔥 Contribution Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dinaz-12&theme=neon-dark"/>
-</p>
-
-### ✨ Custom Animated GIF Stats  
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
-</p>
 
 ---
 
