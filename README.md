@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
 
+<p align="center">
+  <img src="Dinaz-12/overview.gif" alt="Overview banner" width="1100px" />
+</p>
+
 
 <!-- Header GIF -->
 <p align="center">
