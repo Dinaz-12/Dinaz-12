@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
 
-<img src="https://github.com/user-attachments/assets/396fd299-46b3-461a-b526-6e83cdfb5853.gif" />
+<img src="https://github.com/user-attachments/assets/396fd299-46b3-461a-b526-6e83cdfb5853.gif" width="700" />
 
 <!-- Header GIF -->
 <p align="center">
