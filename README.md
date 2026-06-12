@@ -2,6 +2,10 @@
 
 # Hi 👋 I'm Dinaz Chamodya
 
+<p align="center">
+  <img src="overview3.gif" alt="Overview banner" width="1100px" />
+</p>
+
 ### 🎓 Data Science Undergraduate | 🤖 AI Enthusiast | 📊 Data Analyst | ⚙️ Future Data Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Data+Engineering+%26+Analytics+%E2%9A%99%EF%B8%8F;Passionate+about+Business+Intelligence+%F0%9F%93%88" />
