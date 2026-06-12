@@ -1,89 +1,156 @@
-<h1>Hi there 👋 I'm <span style="color:#ff5faf;">Dinali Chamodya</span></h1>
-<h3>Welcome to GitHub Profile !</h3>
+<div align="center">
 
-<p align="center">
-  <img src="overview.gif" alt="Overview banner" width="1100px" />
-</p>
-<h3>✨ Undergraduate Data Science Student | Mobile App Developer | Web Developer ✨</h3>
+# Hi 👋 I'm Dinaz Chamodya
 
----
+### 🎓 Data Science Undergraduate | 🤖 AI Enthusiast | 📊 Data Analyst | ⚙️ Future Data Engineer
 
-## 💖 About Me  
-I'm a passionate developer exploring the worlds of **mobile apps, web development, and data science**.  
-I love turning ideas into visually beautiful & functional digital solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Data+Engineering+%26+Analytics+%E2%9A%99%EF%B8%8F;Passionate+about+Business+Intelligence+%F0%9F%93%88" />
 
-- 🎓 Data Science Undergraduate @ SLIIT  
-- 📱 Android & Mobile App Development (Kotlin)  
-- 🌐 Web Apps with PHP & JavaScript  
-- 🧠 Learning AI/ML, Java OOP, and UI/UX  
-- 🚀 Always creating meaningful student & personal projects  
+<img src="https://komarev.com/ghpvc/?username=Dinaz-12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🎨 Tech Stack & Tools  
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/kotlin.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="45"/>
-  <img src="https://img.icons8.com/officel/80/php-logo.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/javascript.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="45"/>
+🎓 Data Science Undergraduate at **SLIIT**
 
-  <img src="https://img.icons8.com/color/96/python.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/jupyter.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/r-logo.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/eclipse.png" width="45"/>
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-  <img src="https://img.icons8.com/color/96/android-studio--v3.png" width="45"/>
-  <img src="https://img.icons8.com/glyph-neue/96/github.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/git.png" width="45"/>
-  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="45"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-db-data-science-flatart-icons-outline-flatarticons.png" width="45"/>
-</p>
+📊 Interested in **Data Analytics & Business Intelligence**
+
+⚙️ Exploring **Data Engineering & Cloud Technologies**
+
+🌐 Experienced in **Full-Stack Web Development**
+
+📚 Constantly learning and building real-world solutions
+
+🎯 Aspiring **Data Engineer | Data Analyst | AI Engineer**
 
 ---
 
-# 🚀 Featured Projects  
+## 💻 Tech Stack
 
-### 🧸 **Baby-Bliss-App**  
-Tracking baby nutrition & routines  
-**Tech:** Kotlin | Android Studio  
+### Programming Languages
 
-### 💪 **Wellnex-App**  
-Daily wellness habit monitoring  
-**Tech:** Kotlin | Local Storage  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🆘 **HelpAura**  
-Support helpdesk for SLIIT  
-**Tech:** Java | MVC | OOP  
+### Data Science & AI
 
-### 🌿 **Tea Plantation Managemenystem**  
-Manage plantation operations  
-**Tech:** PHP | JS | MySQL  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### 🌐 **SLIIT IWT Web Project**  
-Academic project submission portal  
-**Tech:** PHP | AJAX | MySQL  
+### Web Development
 
-> 📌 *Tip: Pin these on your GitHub profile for better visibility.*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
----
+### Databases
 
-# 📫 Connect With Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dinali-chamodya">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="45"/>
-  </a>
-  <a href="https://www.instagram.com/dinaz_12">
-    <img src="https://img.icons8.com/color/96/instagram-new--v1.png" width="45"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100092501466188">
-    <img src="https://img.icons8.com/color/96/facebook-new.png" width="45"/>
-  </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-### 🌈 *Thank you for visiting my profile!*  
-```
+## 🔥 Featured Projects
+
+### 📊 Finance Management System
+Role-based finance platform with budgeting, expense tracking, reporting and dashboards.
+
+**Tech Stack:** React • Node.js • MySQL
+
+---
+
+### ♻️ Smart Waste Management System
+Waste collection management platform with admin and driver workflows.
+
+**Tech Stack:** React • Node.js • MySQL
+
+---
+
+### 🏦 Banking Data Warehouse Project
+Designed data warehouse concepts and analytical reporting workflows.
+
+**Focus:** ETL • Data Modeling • BI
+
+---
+
+### 🤖 AI & Data Science Projects
+Machine Learning and Data Analytics projects focused on extracting meaningful insights from data.
+
+**Tech Stack:** Python • Pandas • Scikit-Learn
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinaz-12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinaz-12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dinaz-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinaz-12&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dinaz-12/Dinaz-12/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dinali-chamodya">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Turning Data into Insights, Intelligence, and Impact
+
+⭐ If you like my work, consider following me and checking out my repositories!
+
+</div>
