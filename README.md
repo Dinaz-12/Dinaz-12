@@ -63,33 +63,61 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 📊 Finance Management System
-Role-based finance platform with budgeting, expense tracking, reporting and dashboards.
-
-**Tech Stack:** React • Node.js • MySQL
-
----
-
-### ♻️ Smart Waste Management System
-Waste collection management platform with admin and driver workflows.
-
-**Tech Stack:** React • Node.js • MySQL
-
----
+## 🚀 Featured Projects
 
 ### 🏦 Banking Data Warehouse Project
-Designed data warehouse concepts and analytical reporting workflows.
+Built a complete SQL Server Data Warehouse using Star Schema modeling, SSIS ETL pipelines, SSAS OLAP cubes, and Power BI dashboards for business reporting.
 
-**Focus:** ETL • Data Modeling • BI
+**Tech:** SQL Server • SSIS • SSAS • Power BI • ETL
 
 ---
 
-### 🤖 AI & Data Science Projects
-Machine Learning and Data Analytics projects focused on extracting meaningful insights from data.
+### 🤖 AI Data Analysis Assistant
+Developed an AI-powered analytics platform with Natural Language-to-SQL (NL2SQL) capabilities, automated reporting, and interactive dashboards.
 
-**Tech Stack:** Python • Pandas • Scikit-Learn
+**Tech:** Python • SQL • Streamlit • Gemini AI
+
+---
+
+### 📊 Customer Behavior Analytics Dashboard
+Analyzed 10,000+ customer records, performed EDA, and created KPI dashboards to uncover customer trends and business insights.
+
+**Tech:** Python • SQL • Power BI • Pandas
+
+---
+
+### 💰 Fintech Customer Analytics
+Performed customer segmentation, loan risk analysis, and financial analytics with interactive business intelligence dashboards.
+
+**Tech:** Python • Pandas • Power BI
+
+---
+
+### 💻 Laptop Price Prediction System
+Built and deployed a Machine Learning model with 85% prediction accuracy using feature engineering and hyperparameter tuning.
+
+**Tech:** Python • Scikit-Learn • Flask
+
+---
+
+### 🎓 Student Help Desk AI Chatbot
+Developed an AI-powered chatbot with semantic search and context-aware responses for student support.
+
+**Tech:** Python • Gemini API • Streamlit
+
+---
+
+### 🏢 Northbridge University Management System
+Built a full-stack university management platform with authentication, booking workflows, and reporting modules.
+
+**Tech:** React • Spring Boot • SQL Server
+
+---
+
+### 🌱 Tea Plantation Management System
+Developed a workforce management platform with GPS tracking, QR attendance, and weather integration.
+
+**Tech:** React • Node.js • MySQL
 
 ---
 
