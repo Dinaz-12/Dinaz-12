@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Dinaz Chamodya
+# Hi 👋 I'm Dinali Chamodya
 
 <p align="center">
   <img src="overview3.gif" alt="Overview banner" width="1100px" />
@@ -135,11 +135,9 @@ Developed a workforce management platform with GPS tracking, QR attendance, and 
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dinaz-12&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dinaz-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -171,7 +169,7 @@ Developed a workforce management platform with GPS tracking, QR attendance, and 
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:dinalichamodya12@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
