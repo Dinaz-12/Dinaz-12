@@ -133,12 +133,11 @@ Developed a workforce management platform with GPS tracking, QR attendance, and 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinaz-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=Dinaz-12&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 📅 Contribution Graph
